@@ -37,6 +37,9 @@ body {
 	text-decoration: none;
 	color: #000
 }
+span{           /* MOI */
+	display: none;  
+}
 
 .social-link img {
 	width: 20px;

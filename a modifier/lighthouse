@@ -1,0 +1,41 @@
+            LIGHTHOUSE
+
+Mettre le title                                     OK
+Mettre le meta description                          OK
+Ajouter les alt aux images                          OK
+
+sémantique = structure HTML             ajout des balises => header main foofer
+
+                                                            AUDIT
+
+        OPPORTUNITE
+Dimensionnez correctement les images
+Réduisez les ressources JavaScript inutilisées
+
+        DIAGNOSTIC
+Connectez-vous à l'avance aux origines souhaitées
+Précharger l'image Largest Contentful Paint
+Réduire l'impact du code tiers 
+Les éléments d'image ne possèdent pas de width ni de height explicites
+Diffusez des éléments statiques grâce à des règles de cache efficaces
+Évitez de créer des chaînes de requêtes critiques
+Réduisez au maximum le nombre de requêtes et la taille des transferts 
+Éviter les changements de mise en page importants
+Évitez les tâches longues dans le thread principal
+
+        NOMS ET ÉTIQUETTES
+Des éléments d'image n'ont pas d'attribut [alt]                                     OK
+Les éléments de formulaire ne sont pas associés à des libellés                      OK
+Le document ne contient pas d'élément <title>                                       OK
+Les liens n'ont pas de nom visible                                                  OK  
+
+        CONTRASTE
+Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées
+
+        INTERNATIONALISATION ET LOCALISATION
+L'élément <html> n'a pas d'attribut [lang]                                          OK
+
+
+        NAVIGATION
+Les éléments d'en-tête ne sont pas classés séquentiellement par ordre décroissant
+Servez-vous de ces indications pour améliorer la navigation au clavier de votre application.
