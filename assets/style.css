@@ -43,6 +43,7 @@ span{           /* MOI */
 
 .social-link img {
 	width: 20px;
+	height: auto;
 }
 
 #about {
@@ -72,7 +73,7 @@ span{           /* MOI */
 
 .picture img {
 	width: 100%;
-
+	height: auto;
 }
 #about-me {
 	flex: 2
@@ -87,6 +88,7 @@ span{           /* MOI */
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: medium;    /* MOI */
 }
 #about-me p {
 	width: 80%;
@@ -150,6 +152,7 @@ span{           /* MOI */
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
+	font-size: 270%;   /* MOI */
 
 }
 .quote__author {
