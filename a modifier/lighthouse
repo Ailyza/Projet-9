@@ -30,7 +30,7 @@ Le document ne contient pas d'élément <title>                                 
 Les liens n'ont pas de nom visible                                                  OK  
 
         CONTRASTE
-Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées
+Les couleurs d'arrière-plan et de premier plan ne sont pas suffisamment contrastées     OK
 
         INTERNATIONALISATION ET LOCALISATION
 L'élément <html> n'a pas d'attribut [lang]                                          OK
@@ -41,4 +41,4 @@ Les éléments d'en-tête ne sont pas classés séquentiellement par ordre décr
 Servez-vous de ces indications pour améliorer la navigation au clavier de votre application.
 
 
-Travailler avec inspecteur pour bootstrap
+Travailler avec inspecteur pour bootstrap                                           OK 
